@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="153">
+<g id="all">
+<defs>
+<marker id="blue" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="3" markerHeight="3">
+<path fill="blue" stroke="none" d="M 0 0 L 10 0 L 10 10 L 0 10 z" />
+</marker>
+<marker id="red" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="userSpaceOnUse" markerWidth="0.5" markerHeight="0.5">
+<path fill="red" stroke="none" d="M 0 0 L 10 0 L 10 10 L 0 10 z" />
+</marker>
+<marker id="control" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="userSpaceOnUse" markerWidth="1" markerHeight="1">
+<path stroke="green" stroke-width="1" fill="none" d="M 5 0 L 5 10 M 0 5 L 10 5 z" />
+</marker>
+</defs>
+<image x="0" y="0" width="121" height="153" xlink:href="c.png" style="image-rendering: crisp-edges;" />
+<path style="fill:none; stroke:green; stroke-width:0.3" d="M61.8 9.5 C8.6 22.5 3.7 69.4 11.0 96.0 C21.0 132.6 55.1 150.7 86.5 141.5 C91.2 140.1 90.3 142.3 112.0 127.0 M102.8 115.0 C86.7 94.2 99.5 107.8 71.3 109.5 C34.6 111.7 27.8 82.2 28.5 73.0 C30.2 49.6 56.5 33.0 74.3 33.0 C77.7 33.0 77.0 31.8 93.0 37.5 M100.0 10.0 C81.3 5.8 74.7 6.3 61.8 9.5 " />
+<path style="fill:none; stroke:red; stroke-width:0.3" marker-mid="url(#red)" marker-start="url(#red)" marker-end="url(#red)" d="M61.8 9.5 M11.0 96.0 M86.5 141.5 M112.0 127.0 L102.8 115.0 M71.3 109.5 M28.5 73.0 M74.3 33.0 M93.0 37.5 L100.0 10.0 M61.8 9.5 " />
+</g>
+</svg>

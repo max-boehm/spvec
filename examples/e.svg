@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="140">
+<g id="all">
+<defs>
+<marker id="blue" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="strokeWidth" markerWidth="3" markerHeight="3">
+<path fill="blue" stroke="none" d="M 0 0 L 10 0 L 10 10 L 0 10 z" />
+</marker>
+<marker id="red" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="userSpaceOnUse" markerWidth="0.5" markerHeight="0.5">
+<path fill="red" stroke="none" d="M 0 0 L 10 0 L 10 10 L 0 10 z" />
+</marker>
+<marker id="control" viewBox="0 0 10 10" refX="5" refY="5" markerUnits="userSpaceOnUse" markerWidth="1" markerHeight="1">
+<path stroke="green" stroke-width="1" fill="none" d="M 5 0 L 5 10 M 0 5 L 10 5 z" />
+</marker>
+</defs>
+<image x="0" y="0" width="126" height="140" xlink:href="e.png" style="image-rendering: crisp-edges;" />
+<path style="fill:none; stroke:green; stroke-width:0.3" d="M9.5 21.3 C9.9 22.4 10.1 22.5 11.3 22.6 M25.0 24.0 M27.0 33.5 M27.0 122.9 C27.0 125.3 28.7 125.9 10.5 127.8 C9.7 127.9 9.0 127.2 9.0 131.0 C48.6 129.7 46.9 130.0 55.5 130.0 M113.0 130.0 M116.5 101.0 C113.2 101.0 108.3 117.8 101.3 122.5 C97.4 125.1 96.0 127.0 65.8 127.0 C34.0 127.0 41.0 131.7 41.0 75.0 C96.8 75.0 83.9 72.6 90.5 92.6 C90.8 93.4 90.2 94.0 94.0 94.0 M94.0 54.0 C90.8 55.3 91.4 55.6 91.3 56.3 C88.3 74.2 98.1 72.0 41.0 72.0 M41.0 28.6 C41.0 23.1 58.1 24.0 87.8 24.0 C92.7 24.0 91.5 20.0 104.0 45.0 M104.0 20.0 M10.3 20.0 C9.1 20.0 9.1 20.1 9.5 21.3 " />
+<path style="fill:none; stroke:red; stroke-width:0.3" marker-mid="url(#red)" marker-start="url(#red)" marker-end="url(#red)" d="M9.5 21.3 M11.3 22.6 L25.0 24.0 L27.0 33.5 L27.0 122.9 M10.5 127.8 M9.0 131.0 M55.5 130.0 L113.0 130.0 L116.5 101.0 M101.3 122.5 M65.8 127.0 M41.0 75.0 M90.5 92.6 M94.0 94.0 L94.0 54.0 M91.3 56.3 M41.0 72.0 L41.0 28.6 M87.8 24.0 M104.0 45.0 L104.0 20.0 L10.3 20.0 M9.5 21.3 " />
+</g>
+</svg>
